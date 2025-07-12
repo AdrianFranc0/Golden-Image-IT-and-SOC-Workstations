@@ -37,6 +37,7 @@ This project builds foundational experience in image provisioning, endpoint conf
 > **Description**:  
 > This screenshot shows the login screen with two dedicated user accounts: one for the **IT role (ITuser01)** and another for the **SOC analyst (SOCanalyst01)**. Each account is tied to its corresponding image, reinforcing role separation and allowing specific apps and GPOs to be tied to each environment.
 
+(on going work in progress...)
 ---
 
 ## ✅ Summary
